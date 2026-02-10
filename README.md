@@ -1,11 +1,6 @@
 # 🎯 ProTasker: Advanced Productivity & Time Tracking Suite
 
 A **premium full-stack productivity application** built with **NestJS**, **React**, and **TypeScript**.
-
-> Empower your workflow with task management, deep-focus timers, and interactive analytics.
-
-![productivity-animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ---
 
 ## ✨ Key Features
@@ -176,4 +171,5 @@ npm run dev
 > Developed for the **Full-Stack Development Assignment**
 
 ---
+
 
